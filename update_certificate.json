@@ -1,0 +1,20 @@
+{
+  "update_version": "4.0.11.11.2025",
+  "update_timestamp": "2025-11-11T05:51:32.360627Z",
+  "statistics": {
+    "total_letters": 36,
+    "total_substances": 3716,
+    "total_products": 27848,
+    "total_pdfs": 66732,
+    "new_pdfs": 66732,
+    "updated_pdfs": 0,
+    "unchanged_pdfs": 0
+  },
+  "files_generated": [
+    "mhra_ultra_3.0.json - Hierarchical structure (letters > substances > products > documents)",
+    "all_pdf_links.json - Flat list of all PDF links",
+    "mhra_structure_mapping.json - Folder structure mapping",
+    "update_certificate.json - Run summary and statistics"
+  ],
+  "note": "Data extracted using the automated Playwright crawler."
+}
